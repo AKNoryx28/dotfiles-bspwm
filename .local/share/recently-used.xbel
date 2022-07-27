@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/askan/Downloads/macOSMonterey.tar.gz" added="2022-07-26T05:55:24.038445Z" modified="2022-07-26T05:55:24.038452Z" visited="2022-07-26T05:55:24.038446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-26T05:55:24.038447Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/askan/$_X" added="2022-07-26T06:04:10.816305Z" modified="2022-07-26T06:04:10.816309Z" visited="2022-07-26T06:04:10.816306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-07-26T06:04:10.816307Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/askan/-_-" added="2022-07-26T06:25:22.257427Z" modified="2022-07-26T06:32:03.212621Z" visited="2022-07-26T06:25:22.257428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-07-26T06:32:03.212620Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/askan/bspwm-dotfiles" added="2022-07-26T06:26:03.265163Z" modified="2022-07-26T06:26:03.265167Z" visited="2022-07-26T06:26:03.265164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-07-26T06:26:03.265165Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/askan/-_-/hh" added="2022-07-26T06:32:29.844334Z" modified="2022-07-26T06:32:29.844339Z" visited="2022-07-26T06:32:29.844335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-07-26T06:32:29.844337Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/askan/-_-/etcher-tauri" added="2022-07-26T07:20:45.339227Z" modified="2022-07-26T07:20:45.339231Z" visited="2022-07-26T07:20:45.339228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-07-26T07:20:45.339229Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/askan/-_-/color-picker" added="2022-07-27T03:46:54.658625Z" modified="2022-07-27T03:46:54.658630Z" visited="2022-07-27T03:46:54.658626Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-07-27T03:46:54.658627Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

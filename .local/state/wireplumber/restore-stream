@@ -1,0 +1,17 @@
+[restore-stream]
+Audio/Sink:node.name:auto_null:channelMap=FL;FR;
+Audio/Sink:node.name:auto_null:channelVolumes=1.0;1.0;
+Audio/Sink:node.name:auto_null:mute=false
+Audio/Sink:node.name:auto_null:volume=1.0
+Output/Audio:application.name:Firefox:channelMap=FL;FR;
+Output/Audio:application.name:Firefox:channelVolumes=0.59999340772629;0.59999340772629;
+Output/Audio:application.name:Firefox:mute=false
+Output/Audio:application.name:Firefox:volume=1.0
+Output/Audio:application.name:Waterfox:channelMap=FL;FR;
+Output/Audio:application.name:Waterfox:channelVolumes=1.0;1.0;
+Output/Audio:application.name:Waterfox:mute=false
+Output/Audio:application.name:Waterfox:volume=1.0
+Output/Audio:media.role:Music:channelMap=FL;FR;
+Output/Audio:media.role:Music:channelVolumes=1.0;1.0;
+Output/Audio:media.role:Music:mute=false
+Output/Audio:media.role:Music:volume=1.0
